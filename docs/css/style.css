@@ -1,1 +1,35 @@
-/* Feuille de style du site officiel du Pasteur Bopaul */
+/* ===========================
+   STYLE GÉNÉRAL
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f7f7f7;
+    color:#222;
+    line-height:1.7;
+
+}
+
+img{
+
+    max-width:100%;
+    display:block;
+
+}
+
+section{
+
+    padding:100px 10%;
+
+}
